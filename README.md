@@ -77,5 +77,7 @@ if __name__ == "__main__":
     print(f"Results for '{query1}': {indexer.boolean_search(query1)}")
 
 ### Output:
+![Screenshot 2024-09-21 141156](https://github.com/user-attachments/assets/3458025a-5ba4-4b47-a6fb-e5a5634ff367)
 
 ### Result:
+Thus, the implementation of Information Retrieval using Boolean model had been successfully done using python.
